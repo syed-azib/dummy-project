@@ -3,5 +3,7 @@ Just trying to figure out how GIT works
 
 Chicken fry
 
+Beans
+Pizza
 
 thank u
