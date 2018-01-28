@@ -1,0 +1,2 @@
+Welcome to the dummy project.
+Just trying to figure out how GIT works
